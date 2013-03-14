@@ -1,0 +1,66 @@
+# goe_hardcoded v0.1
+# Manage pages, forms and styles with files.
+# Georg Oechsler
+# http://txp.oechsler.de
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+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
+BmAwG72nrZkoYaiDFXkbk7eCvH0rJHejt5JTF5Dbf2vxRLel5Ej/mLGExIFCOS5cnjY/NS7R
+5JS5eG01JZkE6lqNkfODc4wNOXa7nPIRXtXRO1BAlV+oDOoOEtLCHeMFchWoaRnCuV9EHh0R
+qm4ACqnnny8pyYHtpyoqmYfVZvuOsplcJ/xUJuJeeQOh72T3QFlqGR/Rc5M8vCgPvaQAq2oR
+R5DRIbtNl1oskVAlUJS+qGo8XTofsM6K5Li4LeSfJ+3WlblIynTpeyAkLXLw57u1/47tkt36
+/FRg+tWE/X2bsEeKY/JhUlYdF0M+PXDNQx1PRf/fiH8yf35NeynMomTx3X3mvzGjIXflSxiN
+b/SnOcGhP80fiklyYkaHPslu+p4/47Z4YXKx/3xZfDKy1em4YrUVEJa0HVWRSsCB0X4hZpbH
+8cl4oBOe8B/65bffyOLVU1ZPennen2is44cQOqm+J3qav/FaV6moZjNtk+O/mkn0Tg7waiJV
+XTFX/vj9jwfGJ6ebd67fJ4JbVQ13ZsX1IRsVo6C/g58kbqzl3Y+7Z61h6Wi/H9bg5/TyyjGv
++vhYUuO9WhP+1Lfd6xOOE7Xr08tWqVnjYs3auMBX64cts3F1dLL9pXheLJ4PT05O6s3RiVvb
+/bw38Hfj49pNwz44Nesr57tr5Xbt8uOFf/l561AcNVZ6e2vDPWvrxhR9Sk/3qPjs79/Ua8c3
+xSO2JejaTUPJNL1Ge3AZX/h7e9Ai5xOHJu3sdDM75QpdH99zPB/cbJe9dmzt7l8ssrc3+63B
+/W5rMPQuzMPV/duL9c/7V1u35uXw8NSp+dfNoHXf3rO/1Pzjq2Htfv9jKP2zzeaVuX7g168/
+l2uNtSPTPYgbGwP/YWRzPxLa6uPRShPVs+HCY8rPHS1vPlqtfi04u/Fbg9bhab3hN9zm7mF/
+JZQfnV0zHokvTffoZu/TTeuG3XuH2+52uXx4EF8Xbzfqw9r10eX55tVok28j79ruYetq3eSD
+w36/X63+N/fg84FSR8SfOlSmnYbqX97AMo/A8ObFba9Y3CpK02zfNMJyeeBaninuRf2GOrWm
+e73XPj9yoiPKRq3hp8Gp96VrdYcyOCj2Psmt7dH1DXdj57hk756cF7tByb/onVjr/Sv7x9Pn
+bL3t+DQydIlfQ0heJAU0rf9fQjcw9Ol3i8t+ei0BLWV+LtjLWJtd6c03dEgxV/dxKlH4HSUO
+dHlV7bGPaJU1cFBg1HIAiEoaFWRpwEYKG3fUW552gmKJs9DsUWzpcCF0dFUNfsfcYwGyNRK6
+ythbMwpp+qyGqUkfAJP4UNX0QvIVkOQFdI5AMmY2xSi54UJHJTc86mpnkc+Vy9XXWZIvt3U4
+Hf76gtuvL7j9+oLb3/MLbqsVDU556mmlopVW1rqbm+WVzdXuRpl1e6ul0urWWpdur9ONnrW1
+pu18+w8Zm3slKCwAAA==

@@ -1,0 +1,24 @@
+h1. Textpattern hardcoded!
+
+_This is in alpha stage! It somehow works but is quite far away from show time! 
+And it badly lacks documentation._
+
+This Module allows you to manage your page templates, forms and style 
+definitions with files.
+
+This means you can dump the contents of any of these to a file, read them from
+such a file and, if applicable, inspect the diff between what is configured in the
+database.
+
+There are several use cases for this:
+
+# Keep track of templates and styles with a version control such as git, hg, ...
+# Easily deploy changes by ftp or version control rathern than perfoming 
+  a copy and paste orgy.
+# Check if and how data was modified in the database.
+
+Typically you would have it installed on the dev and on the productive system.
+Just hack templates and styles on the dev system until you like what you see. 
+Dump them to files and move these files to the productive system, where you can
+put them in effect with a single mouse click.
+
